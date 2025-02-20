@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #008b8b;
+    text-align: center;
+    font-size: x-large;
+    
+}
+
+.imagens{
+    height: 55%;
+    width: 55%;
+}
+
+.H{
+    font-size: xx-large;
+    color:#ffd700;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: line-through;
+    text-decoration-line: overline; 
+}
+header{
+    color: #bdb76b;
+    font-family: 'Courier New', Courier, monospace
+}
+#li1{
+    color: #7fffd4;
+}
+#li2{
+    color: #00008b;
+}
+#li3{
+    color: #00e600;
+}
+#li4{
+    color: #ff0000;
+}
+nav{
+    padding: 3%;
+}
+
+ul, li{
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-color: #ffee00;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+}
+section{
+color: #ea0101;
+}
+
+article{
+    background-color: #ffee00;
+
+}
+
+footer, p{
+    background-color: #6495ed;
+    text-decoration: dotted;
+    text-decoration-color: #ff0000;
+}
