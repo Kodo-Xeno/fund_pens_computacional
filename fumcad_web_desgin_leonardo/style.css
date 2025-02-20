@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/* CTRL+; Serve para criar comentários no CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+
+  body {
+    background-color: #ffffffcc;
+  }
+}
+
+h1 {
+  color: #d8fe01;
+  text-align: center;
+  margin-top: 49px;
+}
+h2 {
+  color: #9d01fe;
+  text-align: center;
+}
+
+
+p {
+  text-align: center;
+  color: #8a2be2;
+  font-size: x-large;
+  border: solid cadetblue;
+}
+
+#ptxt01{
+text-decoration: underline;
+padding: 50px;
+border-color: darkslateblue;
+
+}
+
+#ptxt02{
+
+ font-family: fantasy;
+ padding: 50px;
+ border-radius: 49px;
+}
+.testando{
+    text-decoration: dashed;
+    text-decoration-line: overline;
+}
+
+
